@@ -1,6 +1,6 @@
 ## Project Overview
 # Aadhaar Scan OPD Booking
-## This project, Aadhaar Scan OPD Booking, has been developed by Aritra from scratch using Spring Boot, implementing the MVC architecture. The primary functionality of this project is to utilize Tesseract OCR to extract text information from an Aadhaar Card captured by a camera. The extracted information is then processed to fetch all the required details needed to book an OPD appointment in a hospital.
+## This project, Aadhaar Scan OPD Booking, has been developed by me from scratch using Spring Boot, implementing the MVC architecture. The primary functionality of this project is to utilize Tesseract OCR to extract text information from an Aadhaar Card captured by a camera. The extracted information is then processed to fetch all the required details needed to book an OPD appointment in a hospital.
 
 ## Features:
 1. Aadhaar Card Text Extraction: Utilizes Tesseract OCR to extract text information from Aadhaar Cards.
